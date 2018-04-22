@@ -211,6 +211,7 @@ Resources:
 5. https://getbootstrap.com/docs/4.0/utilities/screenreaders/
 
 
+
 ->Adding a Select Menu:
 The registration form needs to let users select their job role from a menu. In this video, we'll use .form-group and .form-control to display a <select> menu.
   
