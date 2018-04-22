@@ -210,37 +210,46 @@ Resources:
 4. https://getbootstrap.com/docs/4.0/components/forms/#form-groups
 5. https://getbootstrap.com/docs/4.0/utilities/screenreaders/
 
+
 ->Adding a Select Menu:
 The registration form needs to let users select their job role from a menu. In this video, we'll use .form-group and .form-control to display a <select> menu.
+  
 
 Resources:
 1. https://getbootstrap.com/docs/4.0/components/forms/
 2. https://getbootstrap.com/docs/4.0/components/forms/#form-controls
 3. https://getbootstrap.com/docs/4.0/components/forms/#form-groups
 
+
 ->Custom Form Controls for Cross-Browser Consistency:
 Bootstrap includes custom form styles that change how a browser normally displays form controls. Bootstrap's styles provide a consistent visual design that makes your forms look the same in different browsers and devices.
+
 
 Resources:
 1. https://getbootstrap.com/docs/4.0/components/forms/#checkboxes-and-radios
 2. https://getbootstrap.com/docs/4.0/components/alerts/
 3. https://getbootstrap.com/docs/4.0/components/alerts/#dismissing
 
+
 ->Structured Form Layouts with the Grid:
 In this video, we'll use Bootstrap's grid classes to create the form's "Payment Info" section.
+
 
 Resources:
 1. https://getbootstrap.com/docs/4.0/layout/grid/#auto-layout-columns
 2. https://getbootstrap.com/docs/4.0/components/forms/
 
+
 ->Add Custom CSS to Your Bootstrap:
 Learn how to make your Bootstrap site stand out, and have it fit your own style and needs, by adding custom CSS.
+
 
 Practice projects:
 1. Add validation styles to the form, using Bootstrap's form validation messages (https://getbootstrap.com/docs/4.0/components/forms/#validation)
 2. Use the Media object to enhance the Schedule layout by floating a speaker's thumbnail image to the left of their scheduled talk. (http://v4-alpha.getbootstrap.com/layout/media-object/)
 3. Add a collapsible component to each schedule item that shows and hides information about each talk
 Resources. (http://v4-alpha.getbootstrap.com/components/collapse/)
+
 
 Resources:
 1. https://getbootstrap.com/docs/4.0/getting-started/build-tools/
